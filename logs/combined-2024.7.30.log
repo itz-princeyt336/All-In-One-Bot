@@ -1,0 +1,116 @@
+{"level":30,"time":1722337977233,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Validating config file and environment variables"}
+{"level":30,"time":1722337977385,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Loading commands..."}
+{"level":20,"time":1722337979253,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1722337979256,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1722337979262,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1722337979270,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1722337979273,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1722337979294,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1722337979295,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1722337979299,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1722337979303,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1722337979307,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1722337979360,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1722337979363,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1722337979367,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1722337979368,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1722337979370,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1722337979372,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1722337979373,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1722337979376,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1722337979378,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1722337979382,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1722337979384,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1722337979387,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1722337979394,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1722337979398,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1722337979426,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1722337979431,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1722337979433,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1722337979438,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1722337979440,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1722337979445,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1722337979447,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1722337979449,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1722337979452,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1722337979454,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1722337979456,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1722337979457,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1722337979462,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1722337979466,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1722337979470,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1722337979472,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1722337979476,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1722337979563,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Loaded 91 commands"}
+{"level":30,"time":1722337979563,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Loaded 72 slash commands"}
+{"level":30,"time":1722337979563,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Loading contexts..."}
+{"level":30,"time":1722337979565,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1722337979565,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1722337979565,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Loading events..."}
+{"level":30,"time":1722337979668,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1722337980297,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1722337980297,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1722337981386,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1722337983424,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Logged in as Custom Bot#8952! (1256975549537058869)"}
+{"level":30,"time":1722337983424,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1722337983905,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1722337985132,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Successfully registered interactions"}
+{"level":30,"time":1722338035884,"pid":12144,"hostname":"DESKTOP-PGIGC9F","msg":"Guild Joined: GX Bots & Emojis Members: 17"}
+{"level":30,"time":1722338485442,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Validating config file and environment variables"}
+{"level":30,"time":1722338485674,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Loading commands..."}
+{"level":20,"time":1722338488319,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1722338488323,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1722338488328,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1722338488334,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1722338488337,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1722338488368,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1722338488369,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1722338488378,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1722338488384,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1722338488388,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1722338488427,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1722338488430,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1722338488433,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1722338488434,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1722338488436,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1722338488437,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1722338488440,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1722338488441,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1722338488443,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1722338488445,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1722338488448,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1722338488450,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1722338488455,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1722338488460,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1722338488483,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1722338488489,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1722338488492,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1722338488496,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1722338488497,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1722338488500,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1722338488502,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1722338488503,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1722338488506,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1722338488509,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1722338488510,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1722338488512,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1722338488514,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1722338488516,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1722338488518,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1722338488519,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1722338488521,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1722338488599,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Loaded 91 commands"}
+{"level":30,"time":1722338488599,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Loaded 72 slash commands"}
+{"level":30,"time":1722338488599,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Loading contexts..."}
+{"level":30,"time":1722338488603,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1722338488603,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1722338488603,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Loading events..."}
+{"level":30,"time":1722338488712,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1722338489633,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1722338489634,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1722338491207,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1722338493498,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Logged in as Custom Bot#8952! (1256975549537058869)"}
+{"level":30,"time":1722338493498,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1722338494036,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1722338494348,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Successfully registered interactions"}
+{"level":30,"time":1722338672969,"pid":8764,"hostname":"DESKTOP-PGIGC9F","msg":"Guild Left: GX Bots & Emojis Members: 5"}
