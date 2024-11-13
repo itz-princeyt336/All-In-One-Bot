@@ -33,7 +33,7 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/friday2su/discord-js-bot.git
+git clone  https://github.com/Bd4xtahomid/All-In-One-updated.git
 cd discord-js-bot
 npm install
 ```
