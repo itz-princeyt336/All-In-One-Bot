@@ -110,19 +110,19 @@ async function getHelpMenu({ client, guild }) {
     .setLabel("Support Server")
     .setEmoji('1238430085795545139')
     .setStyle(ButtonStyle.Link)
-    .setURL("https://discord.gg/sNGBwSeZYM");
+    .setURL("https://discord.gg/toz");
 
   const inviteButton = new ButtonBuilder()
     .setLabel("Invite Me")
     .setStyle(ButtonStyle.Link)
     .setEmoji('1238429920573784074')
-    .setURL("https://discord.com/api/oauth2/authorize?client_id=1238431297974566972&permissions=8&scope=bot+applications.commands");
+    .setURL("https://discord.com/api/oauth2/authorize?client_id=&permissions=13018590071154319568&scope=bot+applications.commands");
 
   const voteButton = new ButtonBuilder()
     .setLabel("Vote Me")
     .setStyle(ButtonStyle.Link)
     .setEmoji('1238429509795971116')
-    .setURL("https://top.gg/servers/1143415296862978058/vote");
+    .setURL("https://top.gg/1301859007115431956/vote");
 
   const buttonsRow = new ActionRowBuilder().addComponents([supportButton, inviteButton, voteButton]);
 
