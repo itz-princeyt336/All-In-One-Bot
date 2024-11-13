@@ -7,7 +7,7 @@ const { EMBED_COLORS } = require("@root/config.js");
 module.exports = {
   name: "boostcount",
   description: "to know guild boost",
-  category: "GENERAL",
+  category: "INFORMATION",
   command: {
     enabled: true,
     aliases: ["bc", "bcount"],
